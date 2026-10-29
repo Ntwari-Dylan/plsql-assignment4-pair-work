@@ -200,7 +200,5 @@ plsql-assignment4/
 The current project uses sample student and course data and is operated through SQL*Plus. It does not yet include a graphical user interface, authentication, role-based access control, semester-specific academic records, or automated transcript generation.
 
 Future development could add a web-based interface, secure user accounts, more detailed academic reports, and additional validation and auditing features.
-
 ## 11. Conclusion
-
 The Student Registration and Grading System demonstrates how Oracle SQL and PL/SQL can be used to manage student records, enrollments, and academic results. Through database constraints, functions, procedures, cursors, collections, bulk operations, and exception handling, the project provides a foundation for more efficient academic record management and demonstrates practical database programming skills.
