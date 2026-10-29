@@ -7,9 +7,9 @@
 | No. | Student Name | Student ID |
 |---|---|---|
 | 1 | Ishimwe Ntwari Dylan | 29764 |
-| 2 | ______________________________ | __________________ |
+| 2 | Loko Ezonsou Eldad | 28201 |
 
-**Project Type:** Pair Work  
+**Project Type:** Pair Work
 **Database:** Oracle Database  
 **Programming Language:** PL/SQL
 
