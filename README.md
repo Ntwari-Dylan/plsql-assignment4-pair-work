@@ -195,17 +195,12 @@ plsql-assignment4/
 5. Execute the test commands and review the output.
 6. Review the screenshots and documentation.
 
-**Note:** Do not rerun the sample-data script against an already populated schema unless the existing sample records have been safely removed or a fresh schema is being used.
 
 ## 10. Limitations and Future Improvements
 
 The current project uses sample student and course data and is operated through SQL*Plus. It does not yet include a graphical user interface, authentication, role-based access control, semester-specific academic records, or automated transcript generation.
 
 Future development could add a web-based interface, secure user accounts, more detailed academic reports, and additional validation and auditing features.
-
-## 11. AI Use Disclosure
-
-AI assistance was used to support project planning, explain PL/SQL concepts, develop and review code, troubleshoot errors, and prepare documentation. The project was tested through Oracle SQL*Plus, and the author should ensure that the final submission reflects their understanding of the implementation and complies with the course's academic integrity requirements.
 
 ## 12. Conclusion
 
