@@ -1,4 +1,4 @@
-# Testing Documentation
+# TESTING DOCUMENTATION
 
 ## 1. Purpose
 This document records the tests performed on the Student Registration and Grading System.
